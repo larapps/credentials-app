@@ -1,2 +1,4 @@
 # credentials-app
-Maintaining Credentials
+Maintain Credentials in Local Storage
+
+https://credentials.larapps.com
